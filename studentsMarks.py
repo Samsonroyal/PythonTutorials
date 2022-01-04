@@ -1,1 +1,9 @@
-print "=======================================":
+print ("========================================")
+print       ("| Welcome to student portal |")
+print ("========================================")
+print ("Please enter your full name:")
+name = input()
+print ("Please enter your registration number:")
+regNo = input()
+print ("Please enter your course name:")
+courseName = input()
