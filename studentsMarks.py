@@ -7,7 +7,7 @@ print ("Please enter your registration number:")
 regNo = input()
 print ("Please enter your course name:")
 courseName = input()
-=======
+
 import csv
 myFile=open('studentResults.txt','a')
 excel=open('studentResults.csv','a')
